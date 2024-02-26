@@ -228,5 +228,50 @@ height: 8px;
     .part1{
         display: grid;
     }
+
+
+.footer-top{
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    gap: 0px;
+    margin: 0px;
+    padding: 0px;
+
+}
+.footer-top1{
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+    padding: 50px;
+}
+.header{
+    padding: 30px;
+}
+.details{
+    padding:30px ;
+    padding-right: 50px;
+    padding-left: 10px;
+}
+.footer-bottom{
+    display: grid;
+    gap: 0px;
+}
+.form{
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+#form-text{
+    width: 11rem;
+    height: 2.5rem;
+
+    }
+
+#bttn{
+    width: 11rem;
+    height: 2.5rem;
+}
+
 }
     
