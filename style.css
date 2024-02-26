@@ -156,7 +156,9 @@ height: 8px;
     padding-right: 150px;
     
 }
-
+.details{
+    width: 320px;
+}
 .message{
     display: grid;
     gap: 10px; 
@@ -222,3 +224,9 @@ height: 8px;
 .list-two{
     padding-bottom: 30px;
 }
+@media screen and ( max-width:375px){
+    .part1{
+        display: grid;
+    }
+}
+    
